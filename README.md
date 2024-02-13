@@ -4,6 +4,6 @@
 
 for OOP
 
-![download banner](./bg.jpg)
+
 
 FloWgus23
