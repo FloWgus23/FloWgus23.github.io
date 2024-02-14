@@ -7,3 +7,5 @@ for OOP
 ![download banner](./bg.jpg)
 
 FloWgus23
+
+การใช้งาน Python
