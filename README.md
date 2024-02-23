@@ -13,6 +13,7 @@ FloWgus23
 git status
 git add
 git commit
+
 ##คำสั่ง python พื้นฐาน
 
 d = {'Anna' : 3.99, 'Betty': 3.78}
